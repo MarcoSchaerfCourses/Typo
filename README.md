@@ -1,2 +1,2 @@
-Typo is a classical typing game in which the player must type the words that appears on the screen.
-There is also a animated Dragon which will make the game more fun.
+Typo is a classical typing game in which the player must type the words that appear on the screen. <br />
+There is also an animated Dragon which will make the game more fun.
