@@ -1,4 +1,4 @@
-#TYPO
+# TYPO
 
 Typo is a classical typing game in which the player must type the words that appear on the screen.
 
